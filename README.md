@@ -12,7 +12,7 @@
 
 ## Goal Objective
 
-To create a a Python program using the Python library to collect as much data as possible 
+To create a a Python program using the Python library to collect as much data as possible. 
 
 ## Learning Objectives
 - To be be able to scrape a website
@@ -23,6 +23,9 @@ To create a a Python program using the Python library to collect as much data as
 - Improve in using classes
 
 ## About the Repository
+
+By scraping the real estate website https://www.zimmo.be/nl/, a dataset of at least 10.000 properties in Belgium will be
+created. This overview will be available in the included csv file.
 
 ### Repository
 
@@ -35,19 +38,20 @@ To create a a Python program using the Python library to collect as much data as
 **utils folder**
   - this has 3 files namely:
       1. **requests.py**
-          - this is where you get the requests for the data, we used Beautiful Soup to get the data from the website
+          - this is where you get the requests for the data, we used Beautiful Soup to get the data from the website.
+          - the data is then cleaned and put in a dictionairy.
           
       2. **getting_data.py**
-          - this is where we convert the data that we got from requests.py and save it in a dataframe using pandas
+          - this is where we convert the cleaned data that we got from requests.py and save it in a dataframe using pandas
       
 **data folder**
   - this contains 1 csv file:
       1. **ZimmoData.csv**
           - this is where the data is saved, it is in a csv format
           
-## Pending...
+### Project Status
 
-We have a lot of ideas in mind, but due to limited time, we still have a lot of things that are not available.
+The progamm is running and works. An overview of the collected data can be found in the csv file. But due to limited time, the minimum data of 10.000 properties could not be achieved. To achieve this goal the program should run for approximatly 3 days straight. 
 
   
 ### Thank you for reading.
