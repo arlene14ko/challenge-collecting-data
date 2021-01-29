@@ -31,7 +31,7 @@ This is a program that can help you scrape a website using python
   - everything that you need to start scrapping is imported here 
 
 **utils folder**
-  - this has 3 files namely:
+  - this has 2 files namely:
       1. **getting_data.py**
       2. **requests.py**
       
