@@ -46,7 +46,7 @@ created. This overview will be available in the included csv file.
       
 **data folder**
   - this contains 1 csv file:
-      1. **ZimmoData.csv**
+      1. **zimmo_data.csv**
           - this is where the data is saved, it is in a csv format
           
 ### Project Status
