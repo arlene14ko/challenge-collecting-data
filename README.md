@@ -1,4 +1,4 @@
-# Challenge Card Game (Becode) 
+# Challenge Collecting 100,000 Data  (Becode) 
 
 - Developer Name : `Arlene Postrado, Joren Vervoort, Philippe Planchar`
 - Level: `Junior Developer`
